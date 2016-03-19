@@ -1,0 +1,19 @@
+[12-Dec-2015 02:23:39 UTC] PHP Parse error:  syntax error, unexpected '[', expecting T_STRING or T_VARIABLE or '{' or '$' in /home/mzcontro/public_html/bbb/encuestas.php on line 23
+[12-Dec-2015 02:33:12 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/mzcontro/public_html/bbb/encuestas.php on line 27
+[12-Dec-2015 03:58:16 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/mzcontro/public_html/bbb/encuestas.php on line 23
+[12-Dec-2015 05:33:14 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/mzcontro/public_html/bbb/encuestas.php on line 52
+[12-Dec-2015 05:36:29 UTC] PHP Parse error:  syntax error, unexpected T_BOOLEAN_AND in /home/mzcontro/public_html/bbb/encuestas.php on line 47
+[12-Dec-2015 07:06:39 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/mzcontro/public_html/bbb/encuestas.php on line 26
+[12-Dec-2015 07:23:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mzcontro/public_html/bbb/encuestas.php:20) in /home/mzcontro/public_html/bbb/encuestas.php on line 28
+[12-Dec-2015 07:23:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mzcontro/public_html/bbb/encuestas.php:20) in /home/mzcontro/public_html/bbb/encuestas.php on line 28
+[12-Dec-2015 07:23:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mzcontro/public_html/bbb/encuestas.php:20) in /home/mzcontro/public_html/bbb/encuestas.php on line 28
+[12-Dec-2015 15:13:38 UTC] PHP Parse error:  syntax error, unexpected T_FOREACH in /home/mzcontro/public_html/bbb/encuestas.php on line 86
+[12-Dec-2015 15:14:15 UTC] PHP Parse error:  syntax error, unexpected $end in /home/mzcontro/public_html/bbb/encuestas.php on line 118
+[12-Dec-2015 15:29:31 UTC] PHP Fatal error:  Class 'Respuestas' not found in /home/mzcontro/public_html/bbb/EncuestaDAO.class.php on line 40
+[12-Dec-2015 15:39:42 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/mzcontro/public_html/bbb/encuestas.php on line 87
+[12-Dec-2015 15:57:46 UTC] PHP Fatal error:  Maximum execution time of 360 seconds exceeded in /home/mzcontro/public_html/bbb/encuestas.php on line 87
+[15-Dec-2015 03:43:55 UTC] PHP Fatal error:  Call to a member function obtenerUsuario() on a non-object in /home/mzcontro/public_html/bbb/index.php on line 12
+[15-Dec-2015 15:52:12 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/mzcontro/public_html/bbb/EncuestaDAO.class.php on line 64
+[15-Dec-2015 16:54:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mzcontro/public_html/bbb/encuestas.php:57) in /home/mzcontro/public_html/bbb/encuestas.php on line 67
+[15-Dec-2015 16:55:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mzcontro/public_html/bbb/encuestas.php:57) in /home/mzcontro/public_html/bbb/encuestas.php on line 67
+[15-Dec-2015 17:00:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mzcontro/public_html/bbb/encuestas.php:57) in /home/mzcontro/public_html/bbb/encuestas.php on line 67
